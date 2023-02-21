@@ -1,0 +1,2 @@
+trigger report : curl localhost:5000/trigger_report
+get report     : curl localhost:5000/get_report/<id>
